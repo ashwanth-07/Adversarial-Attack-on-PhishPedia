@@ -1,1 +1,1 @@
-This repo is to run adversarial attacks (PGD, FGSM) on (PhisPedia)[https://github.com/lindsey98/Phishpedia]. It is a 2 stage visual phishing detector that uses a logo detector and a siasmese model to compare the incoming logos with its logo database
+This repo is to run adversarial attacks (PGD, FGSM) on (PhishPedia) [https://github.com/lindsey98/Phishpedia]. It is a 2 stage visual phishing detector that uses a logo detector and a siasmese model to compare the incoming logos with its logo database
